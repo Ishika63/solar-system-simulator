@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Screenshorts
+
+![1 1](https://github.com/Ishika63/solar-system-simulator/assets/80192358/f3530a07-44cc-419f-a519-727e530fffb9)
+
+![1 2](https://github.com/Ishika63/solar-system-simulator/assets/80192358/f116cded-f347-48a5-b16f-3577ed8e9e8a)
+
+
+
+
